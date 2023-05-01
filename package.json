@@ -1,7 +1,7 @@
 {
-  "homepage": "http://jordonlo.github.io/React-portfolio/",
   "name": "personal-portfolio",
   "version": "0.1.0",
+  "homepage": "http://jordonlo.github.io/React-portfolio/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -23,8 +23,7 @@
     "react-router-dom": "^6.3.0",
     "react-router-hash-link": "^2.4.3",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "gh-pages": "^5.0.0"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -51,5 +50,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
+git remote add origin https://github.com/JordonLo/React-portfolio.git
+
