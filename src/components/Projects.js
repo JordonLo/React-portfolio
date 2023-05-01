@@ -14,16 +14,19 @@ export const Projects = () => {
       title: "CareerFindr",
       description: "Job Searching",
       imgUrl: projImg1,
+      URL: "https://careerfindr.herokuapp.com/"
     },
     {
       title: "Luxbox",
       description: "Shopping Site",
       imgUrl: projImg2,
+      URL: ""
     },
     {
       title: "Nutriplanner",
       description: "Nutrition and Daily Planner",
       imgUrl: projImg3,
+      URL: "https://jordonlo.github.io/Nutri-planner/"
     },
   ];
 
